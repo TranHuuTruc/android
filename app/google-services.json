@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1093214752230",
+    "firebase_url": "https://firenotes-5275d.firebaseio.com",
+    "project_id": "firenotes-5275d",
+    "storage_bucket": "firenotes-5275d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093214752230:android:7194ffb2e9c040cce39a27",
+        "android_client_info": {
+          "package_name": "com.example.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093214752230-hsqn0ehkq62358kphvkfc2qvdfa6g62a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGmUZI6tB76kx4w06qrFViscWWx4DwFyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093214752230-hsqn0ehkq62358kphvkfc2qvdfa6g62a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093214752230:android:b5345441614b5895e39a27",
+        "android_client_info": {
+          "package_name": "net.smallacademy.firenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093214752230-hsqn0ehkq62358kphvkfc2qvdfa6g62a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGmUZI6tB76kx4w06qrFViscWWx4DwFyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093214752230-hsqn0ehkq62358kphvkfc2qvdfa6g62a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

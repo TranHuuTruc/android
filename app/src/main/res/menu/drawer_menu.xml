@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="General">
+        <menu>
+            <item
+                android:id="@+id/refesh_Notes"
+                android:icon="@drawable/abc_vector_test"
+                android:title="Refesh Notes" />
+            <item
+                android:id="@+id/them"
+                android:icon="@drawable/abc_vector_test"
+                android:title="Thêm" />
+        </menu>
+    </item>
+    <item android:title="Logout">
+        <menu>
+            <item
+                android:id="@+id/thoat"
+                android:icon="@drawable/abc_vector_test"
+                android:title="Thoát" />
+        </menu>
+    </item>
+</menu>
